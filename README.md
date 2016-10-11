@@ -1,2 +1,2 @@
 # zhao-mingjian.github.io
-[# 我的个人主页](http://blog.csdn.net/guodongxiaren)  
+# [我的个人主页](zhao-mingjian.github.io)  
